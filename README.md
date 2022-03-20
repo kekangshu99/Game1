@@ -3,7 +3,7 @@ The intend of this reposiotry is to show coding experience using HLSL and Direct
 
 
 ## lab01, lab02
-Basic vertex manipulation.
+Vertex manipulation.
 
 ## lab 03, lab 04
 Diffuse lighting, specular reflective lighting such as plinn-phong.
