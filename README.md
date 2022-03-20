@@ -4,6 +4,7 @@ The intend of this reposiotry is to show coding experience using HLSL and Direct
 
 ## lab01, lab02
 Vertex manipulation.
+![Diffuse](https://user-images.githubusercontent.com/89533833/159188141-253462ad-0629-4826-b66c-d1986d93d404.PNG)
 
 ## lab 03, lab 04
 Diffuse lighting, specular reflective lighting such as plinn-phong.
