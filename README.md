@@ -1,5 +1,5 @@
-# Game1
-The intend of this reposiotry is to show coding experience using HLSL and Direct X.
+# Repository Description
+This repository intends to show coding experience using HLSL and Direct X.
 
 
 ## lab01, lab02
